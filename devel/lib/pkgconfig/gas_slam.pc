@@ -1,0 +1,8 @@
+prefix=/home/agilex/Gaussians_ws/devel
+
+Name: gas_slam
+Description: Description of gas_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/agilex/rtabmap_ws/devel/lib/python3/dist-packages",
+        "/home/agilex/agilex_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/agilex/rtabmap_ws/devel/lib/python3/dist-packages",
+        "/home/agilex/agilex_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
