@@ -1,7 +1,7 @@
 # About
 This Repo contains the code for an indoor implementation of [SplaTAM(CVPR 2024)](https://github.com/spla-tam/SplaTAM).***We substitute the off-line dataset input using real-time ROS input***.
 # 🎥Demo
-![indoor implementation](./demo/demo.pngdemo.png)
+![indoor implementation](./demo/demo.png)
 ## 🦿Hardware setup
 - AgileX Scout Mini Pro
 - Intel Realsense D435
