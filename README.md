@@ -11,7 +11,7 @@ This Repo contains the code for an indoor implementation of [SplaTAM(CVPR 2024)]
 - We highly recommend trying other more advanced MDE methods.
 ## 🍽Get started (brewing...)
 ## Acknowledgement
-- Special thanks to [Jingfeng Li](https://github.com/Li-jingfeng) for his unreserved guidance on this project.Wish him all the best in future job career!!🫶🏻🫶🏻🫶🏻
+- Shout out to [Jingfeng Li](https://github.com/Li-jingfeng) for his unreserved guidance on this project.Wish him all the best in future job career!!🫶🏻🫶🏻🫶🏻
 ## End
 If you are interested in any technical details in this project,feel free to contact!😆
 
